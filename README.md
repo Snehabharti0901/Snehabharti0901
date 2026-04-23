@@ -4,9 +4,9 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Final-year BTech student in **Artificial Intelligence & Machine Learning**
+- 🎓  BTech graduate in **Artificial Intelligence & Machine Learning**
 - 💻 Passionate about **Machine Learning, Web Development & Problem Solving**
-- 🚀 Currently working on **Multiple Disease Prediction using AIML**
+- 🚀 Worked on **Multiple Disease Prediction using AIML**
 - 🌱 Learning **Full Stack Development & DevOps**
 - 🤝 Open to **internships & collaboration opportunities**
 
