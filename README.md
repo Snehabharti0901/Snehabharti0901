@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Bharti</h1>
-<h3 align="center">BTech AIML Student | Aspiring Software & ML Engineer</h3>
+<h3 align="center">BTech AIML Graduate | Aspiring Software & ML Engineer</h3>
 
 ---
 
